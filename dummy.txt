@@ -2,3 +2,4 @@ Minor bug fixes - 1731683815.921006
 Refactored code - 1731683817.1287355
 Refactored code - 1731683818.2977014
 Updated README - 1731683819.491409
+Enhanced documentation - 1731683820.6516194
